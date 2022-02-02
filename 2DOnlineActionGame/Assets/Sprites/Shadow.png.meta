@@ -1,0 +1,653 @@
+fileFormatVersion: 2
+guid: a3a691aafd9404e03a3ca9ead0504c5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3625043607559282579
+    second: Isometric Diamond
+  - first:
+      213: -2638390803197812687
+    second: Flashlight_0
+  - first:
+      213: -3195570130483979453
+    second: Flashlight_1
+  - first:
+      213: 4093480436322176185
+    second: Shadow_0
+  - first:
+      213: -6472874401326232
+    second: Shadow_1
+  - first:
+      213: -2578634290482498685
+    second: Shadow_2
+  - first:
+      213: -2452145078486519950
+    second: Shadow_3
+  - first:
+      213: -914827505574848917
+    second: Shadow_4
+  - first:
+      213: 306969897189985313
+    second: Shadow_5
+  - first:
+      213: -2376933601864114580
+    second: Shadow_6
+  - first:
+      213: 7655425212261900824
+    second: Shadow_7
+  - first:
+      213: -7850010935813572921
+    second: Shadow_8
+  - first:
+      213: 8252860961530591683
+    second: Shadow_9
+  - first:
+      213: 5920517790199751241
+    second: Shadow_10
+  - first:
+      213: -2375635971692906114
+    second: Shadow_11
+  - first:
+      213: 9159009388883916819
+    second: Shadow_12
+  - first:
+      213: 8798944226150371144
+    second: Shadow_13
+  - first:
+      213: 2354517142757185580
+    second: Shadow_14
+  - first:
+      213: 1616217959683308121
+    second: Shadow_15
+  - first:
+      213: -4365406365993127081
+    second: Shadow_16
+  - first:
+      213: -1084805906949958192
+    second: Shadow_17
+  - first:
+      213: -6507947630551659073
+    second: Shadow_18
+  - first:
+      213: 4328085898957471682
+    second: Shadow_19
+  - first:
+      213: -6033804263923981377
+    second: Shadow_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shadow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8ef5c4c6fec830800000000000000
+      internalID: 4093480436322176185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b12ac74f009eff0800000000000000
+      internalID: -6472874401326232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383362666c9d63cd0800000000000000
+      internalID: -2578634290482498685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fa61b0b0b38fdd0800000000000000
+      internalID: -2452145078486519950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66547b0b31ed43f0800000000000000
+      internalID: -914827505574848917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c4fbebe73924400800000000000000
+      internalID: 306969897189985313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e133e8b7f630fd0800000000000000
+      internalID: -2376933601864114580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812a07d9ba88d3a60800000000000000
+      internalID: 7655425212261900824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c676ef15a82f0390800000000000000
+      internalID: -7850010935813572921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c938b8a15d088270800000000000000
+      internalID: 8252860961530591683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942ac3bdf87e92250800000000000000
+      internalID: 5920517790199751241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79ba9f9bab080fd0800000000000000
+      internalID: -2375635971692906114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318b4ee33865b1f70800000000000000
+      internalID: 9159009388883916819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fca26a7212c1a70800000000000000
+      internalID: 8798944226150371144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c281c97dddceca020800000000000000
+      internalID: 2354517142757185580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_15
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab786dba5fd6610800000000000000
+      internalID: 1616217959683308121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75330cef906fa63c0800000000000000
+      internalID: -4365406365993127081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5900276cef1f0f0800000000000000
+      internalID: -1084805906949958192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd8f105c102fa5a0800000000000000
+      internalID: -6507947630551659073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_19
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfbcb4a133701c30800000000000000
+      internalID: 4328085898957471682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 12.8
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e29c8dfe934ca0800000000000000
+      internalID: -6033804263923981377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -6, y: 64}
+      - {x: -128, y: 3}
+      - {x: -128, y: -3}
+      - {x: -6, y: -64}
+      - {x: 6, y: -64}
+      - {x: 128, y: -3}
+      - {x: 128, y: 3}
+      - {x: 6, y: 64}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

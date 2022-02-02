@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: c0db7ff7bf5114c4293d1550ffd06de5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2515606329273628598
+    second: spaceship_game___sprites_by_7soul1_d6dros0_0
+  - first:
+      213: 2939428519120553190
+    second: spaceship_game___sprites_by_7soul1_d6dros0_1
+  - first:
+      213: -587693716415176020
+    second: spaceship_game___sprites_by_7soul1_d6dros0_2
+  - first:
+      213: 337942103912197233
+    second: spaceship_game___sprites_by_7soul1_d6dros0_3
+  - first:
+      213: 1428034028641876414
+    second: spaceship_game___sprites_by_7soul1_d6dros0_4
+  - first:
+      213: 6433375010168667223
+    second: spaceship_game___sprites_by_7soul1_d6dros0_5
+  - first:
+      213: 3435427804202657850
+    second: spaceship_game___sprites_by_7soul1_d6dros0_6
+  - first:
+      213: 5333991131531533445
+    second: spaceship_game___sprites_by_7soul1_d6dros0_7
+  - first:
+      213: 2424516621094607130
+    second: spaceship_game___sprites_by_7soul1_d6dros0_8
+  - first:
+      213: -5599723553357899623
+    second: spaceship_game___sprites_by_7soul1_d6dros0_9
+  - first:
+      213: -5462642199091102805
+    second: spaceship_game___sprites_by_7soul1_d6dros0_10
+  - first:
+      213: 2563067817885175670
+    second: spaceship_game___sprites_by_7soul1_d6dros0_11
+  - first:
+      213: 7780986182681769337
+    second: spaceship_game___sprites_by_7soul1_d6dros0_12
+  - first:
+      213: 7431567344352638773
+    second: spaceship_game___sprites_by_7soul1_d6dros0_13
+  - first:
+      213: -4833864652252995489
+    second: spaceship_game___sprites_by_7soul1_d6dros0_14
+  - first:
+      213: 7373902831062088040
+    second: spaceship_game___sprites_by_7soul1_d6dros0_15
+  - first:
+      213: -4674700168478495278
+    second: spaceship_game___sprites_by_7soul1_d6dros0_16
+  - first:
+      213: -2423458428874110168
+    second: spaceship_game___sprites_by_7soul1_d6dros0_17
+  - first:
+      213: -1829733779788863327
+    second: spaceship_game___sprites_by_7soul1_d6dros0_18
+  - first:
+      213: 1702995961487209812
+    second: spaceship_game___sprites_by_7soul1_d6dros0_19
+  - first:
+      213: 7023755963564508332
+    second: spaceship_game___sprites_by_7soul1_d6dros0_20
+  - first:
+      213: -9216015629838395155
+    second: spaceship_game___sprites_by_7soul1_d6dros0_21
+  - first:
+      213: -6386557625683237962
+    second: spaceship_game___sprites_by_7soul1_d6dros0_22
+  - first:
+      213: -6682823236846403981
+    second: spaceship_game___sprites_by_7soul1_d6dros0_23
+  - first:
+      213: 7679273472716351580
+    second: spaceship_game___sprites_by_7soul1_d6dros0_24
+  - first:
+      213: 8760494239386145408
+    second: spaceship_game___sprites_by_7soul1_d6dros0_25
+  - first:
+      213: 4041090664069115188
+    second: spaceship_game___sprites_by_7soul1_d6dros0_26
+  - first:
+      213: 733710113977917016
+    second: spaceship_game___sprites_by_7soul1_d6dros0_27
+  - first:
+      213: -4051104346514822194
+    second: spaceship_game___sprites_by_7soul1_d6dros0_28
+  - first:
+      213: -6789334536963865136
+    second: spaceship_game___sprites_by_7soul1_d6dros0_29
+  - first:
+      213: 6493810524321760982
+    second: spaceship_game___sprites_by_7soul1_d6dros0_30
+  - first:
+      213: 2890852715588470780
+    second: spaceship_game___sprites_by_7soul1_d6dros0_31
+  - first:
+      213: -5476042109025439171
+    second: spaceship_game___sprites_by_7soul1_d6dros0_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 342
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48cbec2f55c61dd0800000000000000
+      internalID: -2515606329273628598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 342
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e445d41aa2fac820800000000000000
+      internalID: 2939428519120553190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 341
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2285cbda718d7f0800000000000000
+      internalID: -587693716415176020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 342
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca5529d8c90b400800000000000000
+      internalID: 337942103912197233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 294
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb97e5c026561d310800000000000000
+      internalID: 1428034028641876414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 295
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c7afb7c70f74950800000000000000
+      internalID: 6433375010168667223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 296
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38eff0e2671daf20800000000000000
+      internalID: 3435427804202657850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 295
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c55066ca4260a40800000000000000
+      internalID: 5333991131531533445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 268
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19df50750d95a120800000000000000
+      internalID: 2424516621094607130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998d6b9c819c942b0800000000000000
+      internalID: -5599723553357899623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 246
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babbd1cbcdbc034b0800000000000000
+      internalID: -5462642199091102805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 244
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0844c998d19320800000000000000
+      internalID: 2563067817885175670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 201
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97538fc25bd9bfb60800000000000000
+      internalID: 7780986182681769337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 195
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5373884202b322760800000000000000
+      internalID: 7431567344352638773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50a42ea5b9aaecb0800000000000000
+      internalID: -4833864652252995489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 195
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869f3b56e8d555660800000000000000
+      internalID: 7373902831062088040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd6162e6f0202fb0800000000000000
+      internalID: -4674700168478495278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b480326652e5ed0800000000000000
+      internalID: -2423458428874110168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 146
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e62652da7b96e0800000000000000
+      internalID: -1829733779788863327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 147
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455be5addc142a710800000000000000
+      internalID: 1702995961487209812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44b4dd5d4697160800000000000000
+      internalID: 7023755963564508332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 107
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8d80bfc922a1080800000000000000
+      internalID: -9216015629838395155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 108
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3a6974da36e57a0800000000000000
+      internalID: -6386557625683237962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e3b075ca7d143a0800000000000000
+      internalID: -6682823236846403981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a6527982429a60800000000000000
+      internalID: 7679273472716351580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 48
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082977b7817839970800000000000000
+      internalID: 8760494239386145408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_26
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 52
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dacf06c86d41830800000000000000
+      internalID: 4041090664069115188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_27
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 52
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ed3c71679ae2a00800000000000000
+      internalID: 733710113977917016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb61fd7f0697c7c0800000000000000
+      internalID: -4051104346514822194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 11
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d54af6c53077c1a0800000000000000
+      internalID: -6789334536963865136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 26
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d644e42446ae1a50800000000000000
+      internalID: 6493810524321760982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 26
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7cf9a7a3f5e1820800000000000000
+      internalID: 2890852715588470780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_game___sprites_by_7soul1_d6dros0_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 31
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32357417b03104b0800000000000000
+      internalID: -5476042109025439171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &167120
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 436536}
+  - component: {fileID: 11494868}
+  m_Layer: 0
+  m_Name: ForestHandler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &436536
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 167120}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11494868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 167120}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d2f1df9bd87bf44c859c09c35a19fc7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  treeDensity: 90
+  rockDensity: 25
+  treeQuality: 4
+  fadeable: 1
+  fadeDistance: 3
+  treeFadeAlpha: 0
+  fadeSpeed: 5
+  stumpAlpha: 0.65
+  treeSizeMin: 0.5
+  treeSizeMax: 1.5
+  treeMod: 10
+  rockSizeMin: 0.5
+  rockSizeMax: 1
+  TreePrefabs:
+  - {fileID: 112188, guid: 3eb6d32c9688c8f4489a1aa9b8ed4724, type: 3}
+  - {fileID: 142354, guid: 79d7502e423bb974898bb765c63b41f9, type: 3}
+  - {fileID: 128462, guid: a421ae7df287cd1499eefdc0da106bb5, type: 3}
+  - {fileID: 128462, guid: 664ffe6958addaa4895b22fc28f383d0, type: 3}
+  RocksPrefabs:
+  - {fileID: 195010, guid: ad607118f69a569449c384c916195df4, type: 3}
+  - {fileID: 184246, guid: 42ddecc798254504ca0b5025efc9c9f6, type: 3}
+  - {fileID: 190554, guid: 31e96c3adb50ecc428fec92433ccf3ab, type: 3}
+  - {fileID: 147970, guid: 34faf523164e55043bcb8d7e6ae6d0f0, type: 3}
+  - {fileID: 170424, guid: 7bbfd92294e268d4291db25a6a952ff6, type: 3}
+  checkForStrags: 0
+  stragCheck: 25
+  stragDist: 100

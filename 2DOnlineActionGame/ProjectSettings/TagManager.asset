@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pistolBullet
+  - rifleBullet
+  - shotgunBullet
+  - zombie
+  - player
+  - rifleLoot
+  - shotgunLoot
+  - circleArea
+  - bossZombie
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MG_Ground
+    uniqueID: 42559
+    locked: 0
+  - name: MG_Water
+    uniqueID: 77504
+    locked: 0
+  - name: MG_Objects
+    uniqueID: 42896
+    locked: 0
